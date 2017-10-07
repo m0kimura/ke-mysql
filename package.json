@@ -1,0 +1,26 @@
+{
+  "name": "ke-mysql",
+  "version": "1.0.0",
+  "description": "MYSQL DRIVER",
+  "main": "ke-mysql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0kimura/ke-mysql.git"
+  },
+  "keywords": [
+    "MYSQL"
+  ],
+  "author": "Michihiro Kimura <kimura@kmrweb.net> (http://www.kmrweb.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m0kimura/ke-mysql/issues"
+  },
+  "homepage": "https://github.com/m0kimura/ke-mysql#readme",
+  "dependencies": {
+    "ke-base": "^1.0.1",
+    "mysql": "^2.15.0"
+  }
+}
